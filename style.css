@@ -1,0 +1,52 @@
+/* General body styling */
+body {
+    font-family: verdana, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* Profile picture */
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #4a90a4;
+}
+
+/* Headings */
+h1, h2 {
+    color: #4a90a4;
+}
+
+/* Navbar customization */
+.navbar {
+    background-color: #4a90a4 !important;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: white !important;
+}
+
+.navbar .nav-link:hover {
+    text-decoration: underline;
+}
+
+/* Links */
+a {
+    color: #4a90a4;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #4a90a4;
+    color: white;
+    margin-top: 40px;
+}

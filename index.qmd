@@ -1,0 +1,18 @@
+---
+title: "Haley McCann"
+---
+
+<div style="text-align: center;">
+<img src="Photo.jpg" alt="Photo of Haley McCann" class="profile-pic"/>
+
+# Haley McCann
+
+Hi! I'm Haley, a student interested in technology, data science,
+and creative digital projects. This website showcases my work.
+</div>
+
+## Portfolio
+
+Check out some of my class projects below:
+
+- [RAG FOMC Project](RAG_FOMC_2_20_26.html)
